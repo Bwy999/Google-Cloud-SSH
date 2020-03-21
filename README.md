@@ -25,7 +25,7 @@
 
 **3.重启服务器**
 
-reboot
+   - reboot
 
 **4.Terminus iOS 客户端设置**
 
