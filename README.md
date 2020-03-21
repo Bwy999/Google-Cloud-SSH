@@ -28,7 +28,7 @@
    - reboot
 
 **4.Terminus iOS 客户端设置**
-
+   ![image](https://github.com/iJony/Google-Cloud-SSH/blob/master/IMG_496.JPEG)
 
 **5.完成✅**
 
